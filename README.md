@@ -152,10 +152,10 @@
 
 		</nav>
 
-		<div id="right" class="column">
+		<nav id="right" class="column">
 			<h3>Contact</h3>
 			
-		</div>
+		</nav>
 
 	</div>
 
