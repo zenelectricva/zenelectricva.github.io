@@ -1,7 +1,3 @@
-# zenelectricva.github.io
-<!DOCTYPE html>
-<!-- Template by quackit.com -->
-<html>
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<title>Zen Electric LLC</title>
@@ -156,4 +152,4 @@
 
 </body>
 
-</html>
+
